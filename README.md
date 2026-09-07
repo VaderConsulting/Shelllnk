@@ -1,6 +1,6 @@
 # Shelllnk
 
-VB6 working copy of `Shelllnk` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: ShellLink. Output: `SHELLLNK.exe`. Manage shortcuts with iShellLnk interface. `VersionCompanyName`: www.TheScarms.com.
+Dave Scarmozzino / TheScarms.com ShellLink sample (`SHELLLNK.exe`) that creates and inspects Windows shortcuts via the IShellLink typelib (`Shelllnk.tlb`), including Start Menu group helpers. Open `ShellLink.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -8,7 +8,7 @@ VB6 working copy of `Shelllnk` from Dave Robinson's OneDrive Historical Dev `VB`
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `ShellLink` (`ShellLink.vbp`) | VB6 | WinForms exe | Manage shortcuts with iShellLnk interface |
+| `ShellLink` (`ShellLink.vbp`) | VB6 | WinForms exe | Create/get shortcut info via IShellLink |
 
 ## How to open
 
@@ -18,12 +18,13 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 ## Requirements
 
 - Visual Basic 6.0 IDE
+- `Shelllnk.tlb` (shipped in this tree) registered/available to the IDE
 
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Shelllnk`.
 Company names in `.vbp` files: www.TheScarms.com.
-Third-party attribution: TheScarms.com. See `THIRD_PARTY_NOTICES.md`.
+Third-party attribution: Dave Scarmozzino / TheScarms.com. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
 
