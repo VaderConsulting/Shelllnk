@@ -28,4 +28,4 @@ Third-party attribution: Dave Scarmozzino / TheScarms.com. See `THIRD_PARTY_NOTI
 
 ## License
 
-Third-party code remains under its original terms (or none, where none were supplied). See `THIRD_PARTY_NOTICES.md`. Do not treat this tree as VaderConsulting original MIT-licensed work.
+Third-party code remains under its original terms (or none, where none were supplied). See `THIRD_PARTY_NOTICES.md`. Do not treat this tree as Vader Consulting original MIT-licensed work.
